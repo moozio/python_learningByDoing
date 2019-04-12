@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:/software/python3.6/python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": ["--disable=C,R"],
+}
